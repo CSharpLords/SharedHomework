@@ -7,6 +7,6 @@
    ShowMessage("Внимание! Внимание!", true); // выводит предупреждение красного цвета
    ```
 
-![warning](https://api.monosnap.com/rpc/file/download?id=q8me7QruXV34YSbWrJDzYPrHkN5lUb)
+   ![warning](https://api.monosnap.com/rpc/file/download?id=q8me7QruXV34YSbWrJDzYPrHkN5lUb)
 
 2. Напиши программу, в которой описан метод, который принимает 3 параметра - длины сторон треугольника и выводит, может ли существовать треугольник с такими сторонами. Для проверки воспользуйся правилом: в треугольнике каждая сторона меньше суммы двух других сторон
