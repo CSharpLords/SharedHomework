@@ -4,7 +4,7 @@
 4. Вывести на экран все целые числа от 100 до 200, [кратные](http://www.webmath.ru/poleznoe/formules_18_10.php) семи
    - Для вычисления остатка от деления используется [оператор %](https://docs.microsoft.com/ru-ru/dotnet/csharp/language-reference/operators/modulus-operator)
 5. Пользователь вводит любое слово. Программа выводит количество букв `ж` в этом слове
-   - Чтобы получить длину строки, используется свойство `Length`. [Пример](https://gist.github.com/Simplifier/594bee4619bdd2c506dd698adef3cc11#file-extractchar-cs-L5)
+   - Чтобы получить длину строки, используется свойство `Length`. [Пример](https://gist.github.com/Simplifier/594bee4619bdd2c506dd698adef3cc11#file-extractchar-cs-L14)
    - Чтобы получить один символ строки по его номеру, используется оператор квадратные скобки `[]`. Нумерация символов начинается с нуля. [Пример](https://gist.github.com/Simplifier/594bee4619bdd2c506dd698adef3cc11#file-extractchar-cs-L5)
    - Обратите внимание, что нужно сравнивать с буквой в одинарных кавычках, а не двойных
 
