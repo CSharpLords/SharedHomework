@@ -8,3 +8,5 @@
      ![](https://lh6.googleusercontent.com/RGWuWWChgGiLhKLHA4luW3oUH-VYW0dTCmu0T6CW5SnUsUYW0lba-ns-znDjWN37vJsbEMpIXj2guSh3FvmGIcEOERORlKemXI1EF0pNOVoau2VSo4Lm1zk84pHkaoh8npbWGC-yPBY)
 5. Пользователь вводит по очереди расстояния от Москвы до десяти городов. Найти и вывести в консоль расстояние от Москвы до самого удаленного от нее города
   ![](https://api.monosnap.com/rpc/file/download?id=DDwHOdWRVcwpBzEOsKswabjtRKJNIq)
+6. Пользователь вводит слово. Программа выводит буквы слова в обратном порядке
+  ![](https://api.monosnap.com/rpc/file/download?id=eQQZVTItLpAtyPOIgD0xu5NJ7dBIbD)
