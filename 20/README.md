@@ -10,6 +10,12 @@
 
    PS: скрипт можно использовать для нескольких ботов
 
+   <details><summary>Превью</summary>
+
+   ![bots](https://github.com/CSharpLords/SharedHomework/raw/master/20/bots.gif)
+
+   </details>
+
    <details><summary>Подсказка 1</summary>
 
    Храни номер (индекс) точки к которой следует идти в данный момент
